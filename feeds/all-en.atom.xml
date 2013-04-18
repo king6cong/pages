@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Renascence</title><link href="http://king6cong.chuckjane.com/" rel="alternate"></link><link href="http://king6cong.chuckjane.com/feeds/all-en.atom.xml" rel="self"></link><id>http://king6cong.chuckjane.com/</id><updated>2013-04-18T10:20:00+02:00</updated><entry><title>project bungee</title><link href="http://king6cong.chuckjane.com/Project%20Bungee.html" rel="alternate"></link><updated>2013-04-18T10:20:00+02:00</updated><author><name>king6cong</name></author><id>tag:king6cong.chuckjane.com,2013-04-18:Project Bungee.html</id><summary type="html">&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Renascence</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2013-04-18T10:20:00+02:00</updated><entry><title>project bungee</title><link href="/Project%20Bungee.html" rel="alternate"></link><updated>2013-04-18T10:20:00+02:00</updated><author><name>king6cong</name></author><id>tag:,2013-04-18:Project Bungee.html</id><summary type="html">&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;
 &lt;h1&gt;project &lt;em&gt;bungee&lt;/em&gt;&lt;/h1&gt;
 &lt;h2&gt;server&lt;/h2&gt;
 &lt;p&gt;a. server&lt;br /&gt;
@@ -91,7 +91,7 @@ git log --oneline
 git log -n &lt;limit&gt;&lt;/p&gt;
 &lt;h3&gt;http://python-rq.org&lt;/h3&gt;
 &lt;p&gt;pip install rq&lt;/p&gt;
-&lt;h3&gt;pip tips&lt;/h3&gt;
+&lt;h3&gt;git tips&lt;/h3&gt;
 &lt;p&gt;mkdir /path/to/your/project
 git init
 git remote add origin https://king6cong@bitbucket.org/king6cong/bungee.git&lt;/p&gt;
